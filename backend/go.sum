@@ -2,6 +2,8 @@ cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMT
 github.com/AlecAivazis/survey/v2 v2.3.7 h1:6I/u8FvytdGsgonrYsVn2t8t4QiRnh6QSTqkkhIiSjQ=
 github.com/AlecAivazis/survey/v2 v2.3.7/go.mod h1:xUTIdE4KCOIjsBAE1JYsUPoCqYdZ1reCfTwbto0Fduo=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/Kyagara/equinox v1.6.0 h1:IR2xX12RezluT4k1Naazcdb9v3o6Z4H3xY2vEfhGzqU=
+github.com/Kyagara/equinox v1.6.0/go.mod h1:9DgLTEPaxXZUhllU0P7oJySLXCJKuvBaGdC8fpW76IM=
 github.com/Kyagara/equinox/v2 v2.4.0 h1:cOxX9+gMXJwCc5AsUFy/Lh9QL/6+rB8KIQKq3mwhaJk=
 github.com/Kyagara/equinox/v2 v2.4.0/go.mod h1:spu51YT+MW5onfVer4we9JeAhiurReWW4W53d0YSdq4=
 github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2/go.mod h1:HBCaDeC1lPdgDeDbhX8XFpy1jqjK0IBG8W5K+xYqA0w=
